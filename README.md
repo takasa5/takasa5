@@ -1,8 +1,7 @@
 my running record🏃‍♂️
-
-<amp-pixel src="https://pixe.la/v1/users/takasa5/graphs/running/stat"></amp-pixel>
-<span id="km"></span>
-<img src="https://pixe.la/v1/users/takasa5/graphs/running">
+<a href="https://pixe.la/v1/users/takasa5/graphs/running.html">
+  <img src="https://pixe.la/v1/users/takasa5/graphs/running">
+</a>
 
 <!--
 **takasa5/takasa5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
