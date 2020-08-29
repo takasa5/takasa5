@@ -1,5 +1,5 @@
-my running record🏃‍♂️
-<a href="https://pixe.la/v1/users/takasa5/graphs/running.html">
+#### my running record🏃‍♂️
+<a href="https://pixe.la/v1/users/takasa5/graphs/running.html" target="_blank">
   <img src="https://pixe.la/v1/users/takasa5/graphs/running">
 </a>
 
