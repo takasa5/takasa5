@@ -1,8 +1,10 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tixino&amp;theme=dark&amp;username=0&amp;stats=compact&amp;footer=wave" />
-  <source media="(prefers-color-scheme: light)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tixino&amp;theme=light&amp;username=0&amp;stats=compact&amp;footer=wave" />
-  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tixino&amp;theme=dark&amp;username=0&amp;stats=compact&amp;footer=wave" alt="Last.fm recently played" width="400" />
-</picture>
+<a href="https://www.last.fm/user/tixino" target="_blank">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tixino&amp;theme=dark&amp;username=0&amp;stats=compact&amp;footer=wave" />
+    <source media="(prefers-color-scheme: light)" srcset="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tixino&amp;theme=light&amp;username=0&amp;stats=compact&amp;footer=wave" />
+    <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=tixino&amp;theme=dark&amp;username=0&amp;stats=compact&amp;footer=wave" alt="Last.fm recently played" width="400" />
+  </picture>
+</a>
 
 #### my running record🏃‍♂️
 <a href="https://pixe.la/v1/users/takasa5/graphs/running.html" target="_blank">
